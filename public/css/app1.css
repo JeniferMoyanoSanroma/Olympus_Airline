@@ -1,0 +1,14 @@
+@import url(home.css);
+@font-face {
+    font-family: 'heorot';
+    src: url('../fonts/heorot.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'norse';
+    src: url('../fonts/norse.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
